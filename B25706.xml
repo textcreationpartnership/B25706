@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lazarus and his sisters discoursing of paradise: or, a conference about the excellent things of the other world.</title>
+         </titleStmt>
+         <extent>Approx. 64KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25706</idno><idno type="EEBO-CITATION">99832619</idno>
+  <idno type="VID">206625</idno>
+  <idno type="EEBO-PROQUEST">2240933487</idno>
+  
+            <idno type="STC">Wing L763A_VARIANT</idno>
+            <idno type="PROQUEST">99832619</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832619e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206625)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1781:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lazarus and his sisters discoursing of paradise: or, a conference about the excellent things of the other world.</title>
+               </titleStmt>
+               <extent>[2], 46 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and are to be sold at the three Bibles at the west end of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Heaven --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:206625:1"/>
+            <p>LAZARVS AND HIS SISTERS Discoursing of PARADISE: OR, A Conference about the excellent things of the other WORLD.</p>
+            <p>
+               <hi>LONDON</hi> Printed, and are to be sold at the three Bibles at the West end of <hi>Pauls,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:206625:2"/>
+            <pb n="1" facs="tcp:206625:2"/>
+            <head>
+               <hi>LAZARVS</hi> AND HIS SISTERS Discoursing of PARADISE: OR, A Conference about the ex<g ref="char:EOLhyphen"/>cellent things of the other World.</head>
+            <sp>
+               <speaker>
+                  <seg rend="decorInit">M</seg>Ary.</speaker>
+               <p>
+                  <hi>It is an especial wonderfull favour from Iesus, to thy two poor sisters, to have opportunity to speak again with thee, even with thee that art risen from the dead; Ah, my Brother (my altered Brother</hi> Lazarus) <hi>tell me somewhat of heaven and happiness, and of the
+<pb n="2" facs="tcp:206625:3"/>world to come, and of my soul, and where it go<g ref="char:EOLhyphen"/>eth when it departeth out of the body; for thou hast had experience for four dayes thereof.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>
+                  <hi>Mary,</hi> The dead may speak in another manner then the living do; I am re<g ref="char:EOLhyphen"/>stored to thee again, and to thy sister, for the information of the faithfull under the Sun, and as a witness for Iesus Christ, against the whole world of unbelievers and Atheists, that know not the inhabitants of eternity, nor them that dwell in heaven, in earth.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>Where then do the souls of people go when they are out of the body: for thencefor<g ref="char:EOLhyphen"/>wards we hear nothing from them, nor they from us in this life (that we know of) and which way do spirits go out?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>Immortall souls do not go out at the mouth, for they came not in at that entrance; the way souls come into their bo<g ref="char:EOLhyphen"/>dies the same way they go out. But the world and Christians have hitherto been much blin<g ref="char:EOLhyphen"/>ded, in this matter, that so much concerneth their whole substance and being of their soul and body, not knowing the eternall nature with us, which is the very root of us (in which we all live, and move, and have our be<g ref="char:EOLhyphen"/>ings) but they ignorantly conceit, when they see the fome of the gall go out at the mouth (of some more visibly) that it is the soul de<g ref="char:EOLhyphen"/>parting:
+<pb n="3" facs="tcp:206625:3"/>whereas the spirits and souls of all people enter first into the naturall root of their own tree, into the bottom of their own naturall constitution, in the great deep. I am <hi>Lazarus,</hi> and though dead, yet I speak as <hi>A<g ref="char:EOLhyphen"/>bel;</hi> yea, it is possible for some on earth (whe<g ref="char:EOLhyphen"/>ther in the body, or out of the body, they cannot tell) to demonstrate to others the estate of souls, if they themselves be passed quite through the gulf of the new-birth; for that spirit once born in man, searcheth all things, yea, the deeps of God.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>But do not spirits go out in time of death at the five senses, and so at the eyes, mouth, and through the rest of those parts (as now in this life they run forth through the senses, and man can hardly retain them within?</hi>)</p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>Think not so at thy perill; for while man is in this life, he is putting forth through the life which is sensuall, by reason of the first fall; but at his departure from the body, he is drawing inward to his root, as a tree in Winter. But this withdrawing is by degrees; for as ye may see some bodies some at the mouth, and swell at the belly, after that the breath is gone out of their nostrils, which is a plain proof, even to meer men, that all life is not then out of the body; for no life, no working; but for that time the soul is
+<pb n="4" facs="tcp:206625:4"/>gone to the heart (the mans first and last li<g ref="char:EOLhyphen"/>ving corporeity) so from the heart it doth by the like graduall withdrawing, walk some turns on the face of the great deep, in the inward elements (being withdrawn from the outward, as from its exteriour branch, like limbs) before it goes into eternity, unless it be hastened by the prevalency of light and dark<g ref="char:EOLhyphen"/>ness within it self; and yet every soul goeth quick to eternity, yea, very suddenly, without delay, considering the while it must tarry there.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>Do all souls travell the same way, or the same pace in their way?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>No, because they are not of the same nature, they have not the same guilt of sin one as another, and so they sink not so soon as some do; or they have not the same strengthened wings of heavenly desires in earnest; for as the hearts desires to good or evill are stronger or weaker, even so the spi<g ref="char:EOLhyphen"/>rit of the heart of man shall hasten to his pre<g ref="char:EOLhyphen"/>pared lodging in eternity; they that are cloa<g ref="char:EOLhyphen"/>thed with the Divine nature, pass through the fire into God. And through that fire no unclean or mixed spirits could ever pass; and for any to dream of another foundation in this matter, is a vanity and vexation of spirit.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>Brother</hi> Lazarus, <hi>What pain hadst
+<pb n="5" facs="tcp:206625:4"/>thou in and after thy late corporeal lamented death?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>I know my words may be abu<g ref="char:EOLhyphen"/>sed by many, yet hear, or hear not, I will testifie: my naturall life was put out like a candle, or as if one did fall asleep into sensi<g ref="char:EOLhyphen"/>ble visions of the night But <hi>(Mary)</hi> thou dost remember that Iesus loved me, and I love him again dearly: otherwise my spirit should not have been so easie in and after my departure. I found my self full of thoughts, but very quiet, having no lust, or will, or motion of my own, but my mind breathed in Gods own will all the while; I waited only for his pleasure in the quiet region of holy Angels, hearing (by an inward ear) the heavenly melody, and seeing (with the spirit of my mind) the unutterable wonders of the God-head: It was a sleep to me, yet I was very sensible all the while of the love of God, and of my own nothing<g ref="char:EOLhyphen"/>ness; so sweet was it, that I never felt be<g ref="char:EOLhyphen"/>fore, nor since the like; because Iesus loved me first, I slept and nodded in his love, not in his wrath.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>Brother, The people expect to hear much news from thee that wast dead and buried four dayes, and many honest hearts would gladly know where, or into what life their souls will pass, as
+<pb n="6" facs="tcp:206625:5"/>where thine was, what thou didst think of, wha<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> thou didest see and hear, which flesh and blood cannot; yea, some now deny the immortality of the soul, supposing thou wert as if thou hadst ne<g ref="char:EOLhyphen"/>ver been: also, some feel not their own minds, nor any thoughts in them at all, when they are swoun<g ref="char:EOLhyphen"/>ding or sleeping, or in a convulsion, or stunned, or wounded in the head, yet they come to themselves afterwards.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>I am risen from the dead, yet the people (thou seest) care not what I say; for unless they hear <hi>Moses</hi> and the Prophets, it is in vain for me to speak to such, although I have seen by experience what the Pro<g ref="char:EOLhyphen"/>phets have writ of. My dear and deep Lord Jesus told them so in his parable of <hi>Dives,</hi> and of my brother <hi>Lazarus</hi> (who is yet where I was, and not returned where I am.) Yet if those knew they should return as I did, they would possibly be content to be ab<g ref="char:EOLhyphen"/>sent four dayes from their bodies; but let them be absent four hours from self (that wo<g ref="char:EOLhyphen"/>full body, and house self) and they shall see what I have seen, and hear what I have heard; for I have seen the root of the immortality of the soul in God himself; and how every Angel, every man, yea, every foul, fish, beast, plant, mettall, or other Creatures, all grow up from their root, all spring from their
+<pb n="7" facs="tcp:206625:5"/>fountain, every one in his kind, as at the re<g ref="char:EOLhyphen"/>surrection.</p>
+               <p>This doctrine all proud Priests (falsly cal<g ref="char:EOLhyphen"/>led Saints) will laugh at as notions; they will not see it, but they shall feel it after their death; for they are proud, knowing no<g ref="char:EOLhyphen"/>thing; they see not how God is the father of all this world, and of all spirits in it; some are his immediate off-spring, and some more remote: All Saints are his children, grow<g ref="char:EOLhyphen"/>ing on the same tree of God, and in him as he is properly called God: all the naturall spirits of <hi>Adams</hi> children, are chil<g ref="char:EOLhyphen"/>dren removed; and some other spirits of creatures, and things are yet farther distant in nature from his being. The blind guides are drunk with vain traditions without, and no<g ref="char:EOLhyphen"/>tions within, of their naturall or spirituall fa<g ref="char:EOLhyphen"/>thers (as they call them) they see not, neither will they understand how all this Creation came out of God (as a birth of time, from the womb of eternity) and that of him are all things, as my beloved <hi>Paul</hi> saith, They know not God that sitteth on the circle of the earth, in the chair of the center of this creati<g ref="char:EOLhyphen"/>on; they think and teach their disciples, that heaven and hell are far off from them in this world, somewhere above the firmament, or under the earth; but they consider not that
+<pb n="8" facs="tcp:206625:6"/>God in heaven, or Satan in hell is in them, in their own hearts and minds, and that real<g ref="char:EOLhyphen"/>ly and eternally.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>But I am still doubtfull, how one should be dead four dayes, and not be all that while in the highest heaven, nor in the nether<g ref="char:EOLhyphen"/>most hell, or not sensible of somewhat to speak of to others more then ordinary.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>Why dost thou <hi>(Mary)</hi> run about as a swift Dromedary, traversing her wayes? Dost thou not yet see that either heaven or hell beginneth in every heart in this life? What is heaven, but a fixed sweet heavenly eternall nature, in and with Gods love? What hell can be more hellish then a fixed fiery malicious gnawing dunghill na<g ref="char:EOLhyphen"/>ture and condition of a soul excommunica<g ref="char:EOLhyphen"/>ted from the pleasant love of God? Dost thou first of all consider what a soul or mind is? It can step in a minute, yea, in the twink<g ref="char:EOLhyphen"/>ling of an eye, millions of miles, as to a lo<g ref="char:EOLhyphen"/>cality (it is far swifter then the wind, and no room or locality can contain it.) Dost thou not see how the Bats and Blind-guides set forth heaven as a place they know not themselves, where above or about the orbe of this world it is, nor who, nor what is there? They may sooner makes shooes for the whirlwinde, and provide a bed-chamber in some outward house for the winds
+<pb n="9" facs="tcp:206625:6"/>of the heavens, then a locality for the mind and soul of one departed; they know not their own spirits, neither do they note the ranges and chases of their own thoughts, sleeping and waking all day and all night: he that knoweth not what his mind is, how can he discern what the mansion and dwelling place of his mind must be? Of what materials is that house made? O <hi>Mary,</hi> think not of places, but understand thy own thoughts (though (mark this also) beyond the compass of the Creation of God, there is that which is uncreated; for the creature is not eternity, and in eternity there is no place, neither time nor change.) Now where is that that is most fitting thy affections? Thou sayest it is above, and thou sayest true. It is above thy apprehensions. And what is that above? Is it a place? It is not. Is not this Heaven, Earth and Sea, all one piece of Gods workmanship, round as a globe? Is not our firmament above (as thou fanciest) to them that live in our Antipodes, who yet lift up their eyes to heavens over them where they live and breath? And did not Iesus Christ, standing in <hi>Palestina,</hi> lift up his face to pray? And shall they in the other side of the globe of the earth, look asquint or downwards with their bodily eyes? (I speak all this to
+<pb n="10" facs="tcp:206625:7"/>thy understanding) and Christ would have thee when thou prayest, to look into the same heavens which we saw open when he pray<g ref="char:EOLhyphen"/>ed. He as Mediator saw the father to be above him, and looked to that nature (or to him who is God by nature, as <hi>Paul</hi> saith) filling the lower as well, and as essentially as the upper part of the earth or heaven. Do not follow false fancies of heaven, paradise, &amp; the upper countreyes of God, but get thou up thy heart to the upper and higher things, even the things that are at the right hand, and high esteem of the invisible, incomprehensi<g ref="char:EOLhyphen"/>ble being; for spirits departed enter deeper in<g ref="char:EOLhyphen"/>to their own root, whether it be good or evil.</p>
+            </sp>
+            <sp>
+               <speaker>Martha.</speaker>
+               <p>
+                  <hi>Dost thou my brother Justifie the Pa<g ref="char:EOLhyphen"/>pists Purgatory at all? Dost thou give a resurre<g ref="char:EOLhyphen"/>ction to that doctrine that lay long dead among the Protestants?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>I justifie not their conceits of me<g ref="char:EOLhyphen"/>rits at all, nor their several Limbus, and cham<g ref="char:EOLhyphen"/>bers of torments; yea, when they talk of pur<g ref="char:EOLhyphen"/>gatory, they know not what it is, nor where it is (whether in the air, earth or sea) nor who are tormented there, nor who torments them, nor how far they go in, nor when they may come out; they dream, but cannot give account of what they hold: and both Papists and Protestants speak very much of what they neither know experimentally,
+<pb n="11" facs="tcp:206625:7"/>nor yet by a certain foresight; Now I say that the godly souls immediately are in paradise without their bodies, but not in the most per<g ref="char:EOLhyphen"/>fect eternall state, till God be all in all.</p>
+            </sp>
+            <sp>
+               <speaker>Martha.</speaker>
+               <p>
+                  <hi>Dost thou distinguish between heaven and paradise? what ground is there for this?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>It is plain. The repenting thief on the cross was that day with Christ in Pa<g ref="char:EOLhyphen"/>radise (which is the Kingdom of Christ, the fifth Monarch) but not in highest joy or hea<g ref="char:EOLhyphen"/>ven, till his body came to him. And it is evi<g ref="char:EOLhyphen"/>dent that Christs paradise will first be re<g ref="char:EOLhyphen"/>vealed in the last dayes, before he deliver up the Kingdom to the father, that so Christ first, and the father after may be all in all.</p>
+            </sp>
+            <sp>
+               <speaker>Martha.</speaker>
+               <p>
+                  <hi>What doth the word paradise signifie?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>As <hi>Eden</hi> doth in one language signifie pleasure and private rest with God, so doth paradise in another. The figure of it was a plot of ground in <hi>Mesopotamia,</hi> that is (be<g ref="char:EOLhyphen"/>ing interpreted) between the four rivers mentioned by <hi>Moses.</hi> In it were two chief trees, figuring two natures, and there our first parents also before their fall, lived in the paradisicall nature, without sin, or sweat, or mixtures of sorrows, cares and fears; of which inward nature that outward paradise was but a shadow, yet reall representation. Now that nature is near every one of us eve<g ref="char:EOLhyphen"/>rywhere
+<pb n="12" facs="tcp:206625:8"/>in this life time, and not far from any of us. But thou <hi>Martha</hi> being full of dung<g ref="char:EOLhyphen"/>hill cares and vexations of this world, canst not perceive this land that is very far off from the worldly, neither do the eyes of thy mind see the King in his beauty, sitting in his throne here: But as for thy thought and mind, while it should walk on the earth, it sinketh over breast into it, and is fitter for earth then heaven.</p>
+            </sp>
+            <sp>
+               <speaker>Martha.</speaker>
+               <p>
+                  <hi>Who is fit for paradise?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>They that are dead to this world, and the world crucified to them. If thou <hi>(Martha)</hi> continue thy thoughts in the thorn-hedge of this world, thou canst not go in there; None enter into heaven but such as are made meet for that inheritance before<g ref="char:EOLhyphen"/>hand: and suppose thou wert admitted there, art thou able <hi>(Martha)</hi> to abide in heaven, and to dwell with the everlasting burnings?</p>
+            </sp>
+            <sp>
+               <speaker>Martha.</speaker>
+               <p>
+                  <hi>Yea, I trust I could gladly stay and abide in heaven, if I could once get in through the gate?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>Light cannot stay in darkness; for when the night cometh, the day flieth away; when death comes, life is gone; when cold cometh, heat taketh its leave; when sad<g ref="char:EOLhyphen"/>ness entereth, then joy is turned into mourn<g ref="char:EOLhyphen"/>ing; and if thou be darkness, and night, and
+<pb n="13" facs="tcp:206625:8"/>death, and dirt, and a meer muckworm, laden with thick clay; how canst thou in<g ref="char:EOLhyphen"/>habit the most excellent glory and light in the greatest clarity, and everlasting burn<g ref="char:EOLhyphen"/>ings? Is it fit for a beast to be Lord of a cu<g ref="char:EOLhyphen"/>rious garden, or for the night to intrude in<g ref="char:EOLhyphen"/>to the Sun? Or for sin and sinners to get into Gods bosome or paradise? Examine thy own thoughts: Go, try, kneel and pray to God in secret, and there see whether thou canst keep thy mind one hour, or one half hour, yea, or one quarter of an hour upon God and good things only, without steal<g ref="char:EOLhyphen"/>ing out, and thinking of the world, and the lusts, or businesses, or hopes, or fears, or things of this life; and now thou wilt say thy self, that thou art full of wandring thoughts, even in prayer before God. How then can that mind stay with God in hea<g ref="char:EOLhyphen"/>ven (if it were admitted there) until first its vagabonding principle be changed? and if it must have a change of nature and thoughts, when shall it be? why not now? wilt thou put it to the adventure at the hour of death? Grim death (mistake it not) is no such Savi<g ref="char:EOLhyphen"/>our as will change any soul or spirit in its gate of passage; for it leaves the mind in the nature where he found it; only his work is <gap reason="illegible" resp="#murp" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut and loosen the corporeal marriage-knot
+<pb n="14" facs="tcp:206625:9"/>between soul and body; that only is the office of death that is abroad as executi<g ref="char:EOLhyphen"/>oner of wrath: or wilt thou (poor soul) ad<g ref="char:EOLhyphen"/>venture on the Popish purpagory? (that fals meritorious fiery airy pit) yea, thou art like to delay. O <hi>Martha,</hi> thou art asleep in earth, the bottomless pit is not awakened in thee; thou art in the world snoring in the snare for the present. Thou wouldst fain serve two Masters; thy combustible wit is pleading for the things of time, and lawfull callings and occasions, to the forgetting of the things of Eternity. Thou art lull'd asleep with the pleasant song of flesh, earth and deceit; but thou spendest all thy time in a continued dream. O Lord Jesus, that hast awaked me (by thy mighty voice of power) out of the sleep of the grave; do thou awake poor <hi>Martha</hi> (whom thou knowest) out of her sleep and incumbrances; touch her from hea<g ref="char:EOLhyphen"/>ven, and rouze up her spirit, that she may once forget the vanities and vexations of spi<g ref="char:EOLhyphen"/>rit that are in this outward creation.</p>
+            </sp>
+            <sp>
+               <speaker>Martha.</speaker>
+               <p>
+                  <hi>But for all this, Is it not lawfull for us, and necessary to follow our callings, and live honestly in our imployments?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>Thou seekest an excuse, and a cloak for thy covetousness; not thy hand only, but thy heart also is in the mire and
+<pb n="15" facs="tcp:206625:9"/>dirt of earth; I say all ought diligently to attend to God in some outward convenient calling to the good of all, to the hurt of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> one; but let them use the world as though they used it not (and pick it as a dry bone, &amp; let the mind be always fixed upon intellectu<g ref="char:EOLhyphen"/>al angelicall glories.) But thou art serious where thou shouldst be trifling, and thy mind is planted in the world, as a tree planted in a dunghill; if some fine creatures which thou <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ovest be taken away from thee, a piece of <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>hy heart goeth with them along, and such a rented heart cannot dwell in heaven. If thou shouldst stand at the sacred entrance, God would cry and say to thee, If thou come here to the heaven of my holiness, here is no worldly lusts, no wanton lusts, no envi<g ref="char:EOLhyphen"/>ous lusts, there is not a bit of food sutable to that nature, thou mayest starve in heaven for any meat that nature can find there in eter<g ref="char:EOLhyphen"/>nity; and also thou shalt in hell finde none of thy sweet lusts, for there is nothing of that in hell but bitter anguish. And for the outward world, thou canst now no more for ever feed upon that third table; for thy bo<g ref="char:EOLhyphen"/>dy (which is the mouth of that life of this sensuall world) is in the grave an unfit instru<g ref="char:EOLhyphen"/>ment to convey to the mind any outward comfort; and thus the naturall mind falleth into a perpetual distraction, by reason of an
+<pb n="16" facs="tcp:206625:10"/>eternall hungring after that which it cannot enjoy nor reach to, and so becomes a wan<g ref="char:EOLhyphen"/>dering vagabond, and a rogue before the face of the Iudge for ever and ever; and all this because the spirit of the heart is strongly wedded, and sweetly married to the spirit o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> this great world, and cannot willingly par<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> with it, and yet it must depart; and this ma<g ref="char:EOLhyphen"/>keth a sore rupture, and rent in the minde, which will torment for ever.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>O Brother</hi> Lazarus, <hi>Thou sayest true, we are wofully busie about this vain selfish world; this world is a witch, and unless he that raised thee from the dead speak to us, we remain bewitched out of our right minds. He spake to me, and I sat at his feet in the house within (in the inward Temple) but my sister ran into the outward court, riding on the wheels of the spirit of this present world, as</hi> Demas.</p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>Dost thou justifie thy self, O <hi>Mary?</hi> The first may be last; <hi>Mary</hi> may halt, and <hi>Martha</hi> may come forwards; the same evil nature thou espyest in her, is with thee as really as in her. Thou seemest to boast of thy sitting at Christs feet; but what hast thou learnt?</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>He opened many wondrous things in the house, I need not tell thee, nor those that live in the spirit he spake by; for one spirit through all
+<pb n="17" facs="tcp:206625:10"/>things revealeth all things to one people that walk in the green heavenly way hand in hand, with that only one true discoverer: he is I believe but one, and discerneth them that are fled out of this life, as clearly as he doth those that breath in the air of time, for as night is as day with him, so also the life of many is one, and death of all is but one death also. But how dost thou clearly prove it to me, that I have in me the same nature as</hi> Martha <hi>hath? and how may I be last that once was first? and how wilt thou convince me that I am a boaster?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>If thou couldst commune with thy own heart, and dwell with thy self a lit<g ref="char:EOLhyphen"/>tle while, thou would soon see that boasting and spirituall pride hath blossomed and bud<g ref="char:EOLhyphen"/>ded in thy own garden, and that thou art confident in fine flesh and outward var<g ref="char:EOLhyphen"/>nish; a boaster remembreth his own feathers, he despiseth others attainments, he insulteth in words or in carriage, and most of all in swelling thoughts known in his bosome: Yea, the woman compares her self with her self, not with Christ, nor with pure spotless angels; she is as proud in the dunghill of her vile body, as if she were above all the stars of God; and the man boaster also thinketh he hath got the vanguard of all Saints be<g ref="char:EOLhyphen"/>sides; he saith he judgeth all things, and all
+<pb n="18" facs="tcp:206625:11"/>souls (though he never heard the words of the last eternal judgement of God;) he con<g ref="char:EOLhyphen"/>demneth in another what he alloweth to creep into himself (as thou <hi>Mary</hi> dost despise thy fellow-branch <hi>Martha</hi>) for though ye be two sisters in nature, yet ye have two natures that are common to both.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>I know not what thou sayest; how can natures be thus in common, and yet divided? for by this rule all will be in pieces, and every one must fall out and be broken within himself, and so no mortall man or woman can have peace on earth.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>Thou sayest true, sin is the sting of death, and of the conscience too; none can enjoy perfect peace till he be perfect, <hi>for there is no peace to the wicked, saith my God:</hi> no smiles upon the wicked nature in <hi>Abra<g ref="char:EOLhyphen"/>ham, David, Peter, Paul,</hi> or any other; and until thou be in pieces in thy self, thou canst not be united to God and his life. Sin will not be destroyed but in a war; a war cannot be till there be first a falling out be<g ref="char:EOLhyphen"/>tween two natures within; all is at peace within the heart, while Satan is not resisted; so much corruption, so much seed for divi<g ref="char:EOLhyphen"/>sion; so far as any is at peace with self, he is in war with God: but when any is so resolved to fight with his own lusts, as ne<g ref="char:EOLhyphen"/>ver
+<pb n="19" facs="tcp:206625:11"/>to leave pursuit till they be conquered, such a one hath the inward stillness and bo<g ref="char:EOLhyphen"/>som of <hi>Abraham.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>I hear they speak much of</hi> Abrahams <hi>bosome that is mentioned by Jesus; and this is a main usefull question I would ask thee, even thee that hast been traveller in the inward world. What is</hi> Abrahams, <hi>bosome where</hi> Lazarus <hi>was carried from the dogs and gates of</hi> Dives, <hi>the rich dainty glutton?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>By <hi>Abrahams</hi> bosome (thou wilt hear divers say) is meant an inward fami<g ref="char:EOLhyphen"/>liarity (as of the wife of the bosome, which phrase is used of <hi>Uriahs</hi> wife, also of <hi>Abishag,</hi> and of <hi>Hagar</hi> before) in the bosome lyeth a a welcome guest, (as <hi>John</hi> in Christs bosome, and Jesus in the Fathers bosome) or a fickly child (as weak lambs in the shepheards bo<g ref="char:EOLhyphen"/>some) where there is special owning and care for preservation (as is also said of the sinner in that sense, he hideth iniquity in his bosome too.) But <hi>Abrahams</hi> bosome is the inward hive where the spiritual souls resort out of this life; the woe is, <hi>the Bee knoweth her way to the hive, but not the fool to the City of God:</hi> the City and bosome of <hi>Abraham</hi> is neer thee; if thou wert quieted and silent from thy reason (as was <hi>Abraham</hi>) thou shouldst soon arrive there; but while thou lo<g ref="char:EOLhyphen"/>vest
+<pb n="20" facs="tcp:206625:12"/>&amp; livest in the passion of flesh and blood, <hi>Abraham</hi> will have no such whirlwind in his bosome; there is no such wind in heaven, nor yet in the lower paradise; neither is there true peace in any conscience where earthliness re<g ref="char:EOLhyphen"/>mains, because earthliness is the mother of winde and trouble: look thou to thy own bo<g ref="char:EOLhyphen"/>some; is the faith of <hi>Abraham</hi> there? then art thou in his bosome: hast thou believed in hope beyond hope? then art thou in heaven already unawares to thy self, and in his bo<g ref="char:EOLhyphen"/>some unknown to thee. But now to some souls it is hard to be quiet and cool-spirited, especially to the cholerick; hard to the sanguine to be chast and pure-minded; hard to the stout-hearted to be abased under the feet of all; hard to the worldly-wise to be loosned, weaned, and cut from the love of this world; now to them, to all them it is hard to enter through the gate into paradise: but the hardness and difficulty is not in the gate of God, as if Gods love were narrow, but the narrowness is in our own natures (as <hi>Paul</hi> saith of &amp; to the <hi>Corinthians</hi>) this also is of old established in the heavens, that as nothing un<g ref="char:EOLhyphen"/>clean shall enter there (into his love-dwellings) so the more earthly, lustfull, angry, proud, envious, discontented or unbelieving any soul is, the further he is from the heavenly
+<pb n="21" facs="tcp:206625:12"/>nature that is from God: Iesus said, <hi>It is hard, or very difficult for such to enter into the King<g ref="char:EOLhyphen"/>dom of heaven,</hi> because the soul hath a great pack upon it, which is the crooked nature be<g ref="char:EOLhyphen"/>fore the gate of God; which corrupt nature is united to most (as the Camels bunch to it) though to a few its the greatest burthen. Now as heaven is not an earthly City, ho use<g ref="char:EOLhyphen"/>room or locality, but a life in the eternall na<g ref="char:EOLhyphen"/>ture of the love of God, in purity, tranquillity, certainty, and all-enjoying; so far distant then from this glory is a soul, by how much the more unclean and ungodly he is; though it be possible and usuall with God to make the first last, and last first. Wherefore let none spare his wicked disposition, but kill it, and in so doing, lay hold on the unspeakable mercy, for though they are now sick about questions in this life, and talk and dispute about Christ and his Church without and within, yet Christ is but one, and the Church that is of God is but one in <hi>Abrahams</hi> bo<g ref="char:EOLhyphen"/>some.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>My heart longeth for</hi> Abrahams <hi>bosome and heavenly quiet of faith; I am often sad and sorrowfull when I hear one passing-bell after another, and I see one grave opening to devour one corps, and another gaping for another; then think I, where goeth the life and soul of
+<pb n="22" facs="tcp:206625:13"/>yonder body that is buried! and though I see one go after another, and dye like beasts, and pass like sheep or goats into some inward fold; wo is me, I know not where they nor I my self go!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>None can perceive his everlasting habitation, but he that is come to be acquain<g ref="char:EOLhyphen"/>ted with the eternal nature in this world, as I said before; for whilst the soul liveth without in the sensuall life, it remaineth for that time in the outer darkness, cast out from the Bride<g ref="char:EOLhyphen"/>grooms love-light; thou sayest true, that holy Angels (or powers) attend upon Nations, and especially upon believers in this world con<g ref="char:EOLhyphen"/>tinually; yet it is written, that they are in heaven on earth, looking on the fathers face while they are thus spirits ministring with the Christians; if thou enter their life, and con<g ref="char:EOLhyphen"/>tinue therein, thou shalt not be to seek when thou dyest: but if any one liveth as doth a sensuall, sleepy, or fierce, crafty, wanton beast, he shall be turned into Hell. Therefore sink down out of the old self into a new self in the inward nature, and so shall ye (O people) get within heavens gate in this life, otherwise your work will be a long knocking from without the gate of God, where many horri<g ref="char:EOLhyphen"/>bly freeze for anguish for ever: but blessed are they that do his Commandments, for they do enter through his twelve gates into
+<pb n="23" facs="tcp:206625:13"/>the one City. Now as God hath at sundry times, and in divers manners appeared, and doth now (as after Christs resurrection) ma<g ref="char:EOLhyphen"/>nifest himself in the shape or habit of a gard<g ref="char:EOLhyphen"/>ner, a traveller, and so there be severall com<g ref="char:EOLhyphen"/>mands from his throne, that binde not all at one time; but watchwords, and particular or<g ref="char:EOLhyphen"/>ders there are for every age, nation, or man, woman or child: find it particularly in thy self, and live out of the spirit of this world.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>Many now speak of the spirit of the great world, or the spirit of this world; what is the spirit of this world? and how doth it work and deal with us in this life?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>The spirit of this world wherein they live, is no Angel, nor the Angelical life of Christ within, nor God, though this spirit be a very great one, swift, cunning, ancient and universall; He is as broad as the natural heavens, and is filling the earth and Seas, and all created beings at once; it is the sap and life of nature in all things; a good servant, but a bad master in the soul: it is naturally an understanding, ambitious, voluptuous principle. This ocean spirit lusteth for the best, greenest, strongest, fairest, tallest, wittiest, and most durable; and he finds the souls of peo<g ref="char:EOLhyphen"/>ple fit for his turn: He seeth that souls are eternall and excellent, fair, lovely and lively
+<pb n="24" facs="tcp:206625:14"/>spirits, as being made after the image and si<g ref="char:EOLhyphen"/>militude of Gods nature. Now every created being lusteth after somwhat that is of a higher nature then it self, that in the fruition there<g ref="char:EOLhyphen"/>of, it self may be perfected, for every crea<g ref="char:EOLhyphen"/>ture groaneth and travelleth for its own perfe<g ref="char:EOLhyphen"/>ction, but cānot attain it without the assistance of some one above him: hence it is the spirit of this world is become an earnest Sutor to the immortal souls of <hi>Adams</hi> off-spring. And for to solemnize the marriage feast, he presenteth and layeth on the table of mans nature, all the delicate dishes of pleasure, wealth, honour, ease, imployments, sciences, and noble natural engagements. But when he hath once got the poor soul fully into his possession, &amp; cropt off the flower of the affecti<g ref="char:EOLhyphen"/>on of the heart (which God should have had) and thus hath spoiled the spirit of the mind in the lusts or cares, fears or reasonings ofnature, then when man comes to dye, this spirit of the world cryeth out to him, saying, Aha, thou soul of man art immortal, I am but temporal. I had my pleasure with thee, go now to eter<g ref="char:EOLhyphen"/>nity, I will turn the ladder; I was indeed on<g ref="char:EOLhyphen"/>ly an occasion of alluring thee to sin, but now thou must answer it thy self, I am but a time, in the end I am annihilated. Thus the lust of time, and prince in the corrupt nature, shall
+<pb n="25" facs="tcp:206625:14"/>play the hangman with the poor soul, whom he now busily and craftily woeth to all man<g ref="char:EOLhyphen"/>ner of wickedness; and none escape this cliff of sin and judgement, but such as are here born again from out of the spirit of this world, for that spirit is the prison of minds, and afterwards brings the spirits to the lad<g ref="char:EOLhyphen"/>der of death, and then he himself turns the ladder; therefore take heed lest the great spirit of nature deceive and ravish your hearts from the true delight of God.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>But of the other</hi> Lazarus <hi>that lay at the gates of</hi> Dives <hi>full of sores among the dogs, what are we to think of him yet further?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus,</speaker>
+               <p>That worm <hi>Lazarus</hi> had a con<g ref="char:EOLhyphen"/>tented mind, weaned from dainties of flesh, thankfull when providence sent a dog to re<g ref="char:EOLhyphen"/>lieve him, longing for the blessed eternity, suf<g ref="char:EOLhyphen"/>fering the beatings &amp; abhorrings of servants, acquainted with the life of angels living above. But <hi>Dives</hi> (for Christ counts his particular name unworthy to be named on earth) he lo<g ref="char:EOLhyphen"/>ved his belly, his dinner, his supper, his dishes, cups, parlors, ornaments, walks, recreations, seats, foot-stools, adorations from men, and the like. He loved these things so well, that rather then loose them for a season, he would go to hell for ever, as they all do that live luxuriously, wantonly, slothfully, daintily,
+<pb n="29" facs="tcp:206625:15"/>easily, idly and proudly in this base miserable life. Now the spirit of this great world is the air where such fowls flie, the Sea to such fish, and the earth to such beasts as live to them<g ref="char:EOLhyphen"/>selves, not to God that made them, nor to Christ that bought them; they never knew a new self within them, <hi>it is hard for the rich to enter;</hi> of him it is said, <hi>he hath received his reward, he hath eaten his sweet morsell in this life time:</hi> and of the poor none of them is poor indeed, but the poor in spirit, they on<g ref="char:EOLhyphen"/>ly are near the Kingdome of God; and they alwayes beg long, and praise before the throne of grace; these are not slothfull, sleepy, conceited, or domineering in this world; but wo is to the rich in any self, that are not rich towards God: the great gulf is in their own hearts, and separates them from the divine nature, which is heaven indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>Whom didst thou see in paradise? what people are we bound to believe to be in heaven?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>All that were like God and Christ in this world, loving, meek, pure, wise, active, harmless, and spiritual as he is: whe<g ref="char:EOLhyphen"/>ther Magistrates, Ministers, Servants, Soul<g ref="char:EOLhyphen"/>diers, Husbands, Wives, Children, Infants, Idiots, and Off-scourings of this world, they are in the heavens that have in this nature pas<g ref="char:EOLhyphen"/>sed their time on earth. But for the dogged
+<pb n="27" facs="tcp:206625:15"/>souls, cunning beasts, voluptuous hogs, grin<g ref="char:EOLhyphen"/>ning spirits, desperate hearts, scornful dispo<g ref="char:EOLhyphen"/>sitions, and ungodly minds, they are shut up (as I have seen them) by themselves in their own wills, they are gone to their long homes, to the bottomless pit, where they remain in intollerable flames; but these are out of this life, yet not out of this world.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>If they be not out of this world, do they not converse with their friends and equals, and others in this life?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>They that are spiritual on earth, converse with the Angels of God by day and by night. And as the stars work undeniably upon the outward life of the body, so do Angels operate upon these heavenly spirits (as they have done all along under the Old and New Testament, much more must they in the New Ierusalem, under the third last dis<g ref="char:EOLhyphen"/>pensation, for those Angels are not dead nor asleep, nor yet far from any of ye:) also the ghosts of people that are recovered for some minutes to walk on the deep between the gates (as is said before) these also may (with <hi>Zim</hi> and <hi>Iim</hi>) trouble houses, and appear in shapes till they have their errand, or rather until their remaining strings be worn out, to let them down to their deep. But ye in this life cannot or will not know this matter (the
+<pb n="28" facs="tcp:206625:16"/>ground whereof is deep) for ye are already prejudiced. Notwithstanding, some will see that the soul is like a tree in the earth; though the fruit falls, the leaves are not gone so suddenly; the root of the tree is the eter<g ref="char:EOLhyphen"/>nal will and pleasure, the body of it is the spi<g ref="char:EOLhyphen"/>rit, soul and body of man, woman or child, the fruit thereof is the thoughts, words and works of the heart, the rine or bark is the outward body, the sap and juice of the tree is the spirit in the natural complexion, the leaves are the outward appearances and true reports of him in his generation, and the fall of the tree is the death of the man, whether to South or North, whether to the South plea<g ref="char:EOLhyphen"/>sant Sunny life, or to the North, sharp grim gnashing of teeth, where he falleth, there he remaineth O ye trees of the field, and for<g ref="char:EOLhyphen"/>rest of this world, look, look what fruits your souls bear, and which of both ye incline to; for there ye shall be; look I say to your hearts betimes, for Satan looks to have every tree to make up his own fire; he knew what your grand-fathers and ancestors were, and where you most incline heaven-ward or hell-ward, and he that ob<g ref="char:EOLhyphen"/>serves you so sharply in your life-time, will put himself hard to it at your deaths, to force your natures (if possible) to himself; and so
+<pb n="29" facs="tcp:206625:16"/>thrust the tree to Satans own cold and heat. Be ye therefore wakefull, O ye precious chil<g ref="char:EOLhyphen"/>dren of men; take the sword of God, the word or spirit of the Son, and use that in your deep thoughtfull wrastlings; so shall ye tread the serpent under feet, so shall ye valiantly thurst the devil to his own pit which he digged for you, when you shall have esca<g ref="char:EOLhyphen"/>ped your own sins, and entered the everla<g ref="char:EOLhyphen"/>sting South light with God in this world, to your comfort eternally.</p>
+            </sp>
+            <sp>
+               <speaker>Maty.</speaker>
+               <p>
+                  <hi>But now Brother</hi> Lazarus, <hi>Dost thou de<g ref="char:EOLhyphen"/>light to live here with us? wouldst not thou rather return to that unmixed life from whence thou art come?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>My fathers will brought me once from you through death into the other life, and now my Lords will hath fetched me again to you for his own glory; in both am I in his will, and his will is my heaven and hap<g ref="char:EOLhyphen"/>piness wherever and whatever I be; my own will is crucified, dead and buried, and shall never rise again. Now it is all one to me to be here as elsewhere, in his will, to his praise; and all they that are crucified with Christ, are of this my mind: in this perfect will of my God I rest, till my change come from him.</p>
+            </sp>
+            <sp>
+               <speaker>Mary.</speaker>
+               <p>
+                  <hi>But art thou not now subject to sin, as I suppose thou wert not before thy late return to us for some dayes?</hi>
+               </p>
+            </sp>
+            <pb n="30" facs="tcp:206625:17"/>
+            <sp>
+               <speaker>Lazarus.</speaker>
+               <p>My life which is Christ in me, is not subject to sin; and besides this, that my life is become Lord and Governour of my whole man, soul, spirit and body, and shall put off all Satans assaults and snares; But the wayes of my God are deep and unsearchable, whereof I may not speak much for the pre<g ref="char:EOLhyphen"/>sent unto thee, yea, it is not lawfull for me to tell all that I have seen and heard; I speak to thee and to thy sister familiarly. And peace be unto thee <hi>Mary,</hi> in following the lamp of God that burneth and shineth in thee, and shall be alwayes with thee; forsake not the words thou hast learned at the feet of Ie<g ref="char:EOLhyphen"/>sus; and O thou <hi>Martha</hi> (which lookest in this conference as a figure of the outward court, and external form, as <hi>Mary</hi> is the mid<g ref="char:EOLhyphen"/>dle) awake and arise from the dead things, thoughts and societies, and Christ shall give thee (with thy sister) more light. He is wait<g ref="char:EOLhyphen"/>ing and watching to fill us with the love and light of life; live ye in peace, power, purity, &amp; self-denial, with charity and strong strivings and stirrings in the faith of Iesus and the Lord (my Lord) of Paradise will fill you with his own fulness. Amen, when he pleaseth, we shall again speak together. <hi>But for the present, silence is better then more words.</hi>
+               </p>
+            </sp>
+            <div type="excursus">
+               <pb n="31" facs="tcp:206625:17"/>
+               <head>Where is Christ?</head>
+               <p n="1">1. Many now enquire for the true Christ, what he is, where he is, how far off, how near, how like man, in what appearance or form he is, whether he be onely in heaven, or how is he on earth with his Church, and what Church that is (for many cry out, loe here, loe there) for saith one, There is no<g ref="char:EOLhyphen"/>thing of Christs person on this side the star<g ref="char:EOLhyphen"/>rie firmament (for he hath to this day such flesh, blood and bones as we have) Another believeth that he hath no humane nature about him at all, but is become all spirit, and is everywhere, so as that his flesh may be fed on by faith, and his blood drunk in all places, seasons, and conditions by a believing mind. One speaketh loud for a Christ that dyed for him at Ierusalem, and in greatest love hath justified him without his own works or help. Another speaks of a Christ within him, and makes his voice to be heard in the streets (as if men would divide Christ also, and tear him to pieces as they are torn within themselves) His Government is que<g ref="char:EOLhyphen"/>stioned, his Monarchy is disputed, his instru<g ref="char:EOLhyphen"/>ctions are much sleighted, his body undiscer<g ref="char:EOLhyphen"/>ned. One saith he is a great way off, and
+<pb n="32" facs="tcp:206625:18"/>others have long said he is near and at the door. Thus the assembly is divided, and the greatest part know not what they say nor think, nor whereof they affirm.</p>
+               <p n="2">2. O ye seeing eyes, weep and shed tears of blood while ye look upon the ignorance and unacquaintance of precious souls with the Saviours person, and with the spiritual, wonderful, blessed and incomparable being and will! After all their breaking-bread, &amp; hearing-sermons, and kneeling-prayers, after all their Scripture-reading, conference and singings, and repetitions, and writings, and musings, and namings of Christ Iesus, to be so blind as not to know aright (with certain<g ref="char:EOLhyphen"/>ty) what is Christ whom they worshipped, nor how near to them he is in them. Ah thou earth of man be astonished at this! Is the Sun hid from thee? Dost thou not know thy own breath and life? How long wilt thou yet be learning, and not knowing the true Iesus? Wilt thou adventure thy immortal soul upon something like Christ feigned in thy fancy? Wilt thou tread upon a wave or a cloud of thy own imagination, and so sink into eternity? How little of the book of Christs Person or Being is opened? It looks as if most of its seals were fast to this day; wherefore while it is thus, weep, lament
+<pb n="33" facs="tcp:206625:18"/>and mourn until the book be opened and read, that the children of men may understand the acceptable and perfect will of God con<g ref="char:EOLhyphen"/>cerning his dear Son Iesus.</p>
+               <p n="3">3. Christ Iesus is all, and yet nothing that your natural eyes can see. If there were no Christ, there were no creature, nor a true God. If Christ were not the most High God, the Almighties everlasting pleasure coequal to him would be wanting in him, and then would there be no Almightiness nor any thing made. If Christ were not still the man Christ Iesus (as he was and is unknown to men) no man would have a being continu<g ref="char:EOLhyphen"/>ed, or have life to stand on his legs, nor yet be a something in the grave, nor have any considerable life more then the body hath without a head (for Christ is head of every man) If Christ were not the Angel of the Creation and Covenant (sitting on the circles of the earth and of the Church) the holy Angels could no more live as they do in the heavens, then the fowles of the air subsist in the firmament without the Sun at all. If Christ also were not the creature (even the head of every creature) all this world and the things in it would in a moment vanish and wither into nothing: Yea, if Christ were not Conqueror over all devils
+<pb n="34" facs="tcp:206625:19"/>and evil influences of this Creation, all would be soon overturned or swalloed up by the malignant powers, and the whole become a dunghil quickly without any pleasure, lu<g ref="char:EOLhyphen"/>stre, order or beauty in it.</p>
+               <p n="4">4. Wonder then O friends a little at the Christ whose name is wonderful, and limit no more that holy One of Israel in his person; life, death or will, as we have done; for with him we have dealt as <hi>Dalilah</hi> did with <hi>Samp<g ref="char:EOLhyphen"/>son.</hi> We have tyed him with our cords, and imprisoned him in our confinements, and by our sins betrayed him to the hands of themost furious wraths; we have studied how to lock up the Sun in our poor Chamber, in our Opi<g ref="char:EOLhyphen"/>nions, Iudgements and Church-fellowships, in our apprehensions of the Scriptures, Crea<g ref="char:EOLhyphen"/>tures and light within: We have attempted to weigh his mountains in our scales, and have baptized our self-conceited mind into the name of the ballance of the Sanctuary, thinking to drink &amp; draught up his ocean in our earthen dishes: Ah miserable mind of man, and wild confident fancy of the woman. If God and Christ would or could be tyed to thy Iudgement, thou wouldst quickly fall under burnings of eternal judgements; bless God for that he is above thy reach, and thou within his, yea, even his works are above all
+<pb n="35" facs="tcp:206625:19"/>thy thoughts, and (yet further) above all his works are his mercies. That mercy must save thee beyōd all thy own thoughts, else thou art totally and eternally lost, as thy conscience can sometimes tell thee. And though upon sad fits thou canst not stand before the sentence and face of thy own candle, conscience; Wilt thou notwithstanding presume to judge all Scripture, Saints, Churches and sorts of men? yea, to terminate the person of the infinite Lord Iesus, and so seek to starve him in thy pinfold: He is higher then the heavens, what can Angels say to him? He is deeper then Hell, so as to be able to fetch out thence; what can devils answer? (as the Sun is big<g ref="char:EOLhyphen"/>ger then one dust in the air above the earth) He is broader then the earth, what then can man say to limit him? Let mans busie mind no more bethink how to tramel him, but with shame fall down before him for this abuse of his infiniteness, lest his greatness fall on man, and devour his spirit.</p>
+               <p n="5">5. If this age were not too dull of hearing, many more wondrous things would be made manifest of Christs Person, that would evi<g ref="char:EOLhyphen"/>dence themselves to all honest hearts, to be no errors nor Antichrist, but the truth in God; then should many more eyes see how he is man, and yet the Lord, the spirit from
+<pb n="36" facs="tcp:206625:20"/>heaven; how he is the quickning heart to all kind of things (as the heart in the body, is (unseen) to all the members) How he is nea<g ref="char:EOLhyphen"/>rer man then his marrow to his bone, and yet man considereth him not within him. Then would it be more manifest how Christ him<g ref="char:EOLhyphen"/>self is really present with the soul of man, as a raiment to be put on, as food to nourish him as a well-spring to water him, yea, as the breath of the life of his thoughts (though he little thinks of the substance of his breath by which he prolongs his life) But how mon<g ref="char:EOLhyphen"/>strous a vanity is it to imagine the great Lord Christ cooped up in some closet of heaven, or of one heart, or of one form or opinion? Moreover, most professing eyes see not the ground-work and main wheel of all; neverthe<g ref="char:EOLhyphen"/>less this is joyous that thy simple soul &amp; mine, (though we have not attained the intellectual cōpass of things, (of all things) may yet lodge securely in the body of the tree the Cedar Iesus, (in whom birds of all wings shelter.) Howbeit the inward body and deep root of this Sun of righteousness is from us under a continued Eclipse (an Eclipse of many digits) because there is an earth within the heart that darkneth the great light that ruleth by day, &amp; many scorn the notions and further know<g ref="char:EOLhyphen"/>ledge of Christs person. Others abuse him,
+<pb n="37" facs="tcp:206625:20"/>and rant it after Satan; yet in the children of life, though the bickerings of cold winter, of bondage and corruption be not suddenly over (but they will have need of patience and ef<g ref="char:EOLhyphen"/>fectual faith too) the summer will come on upon the Saints (and that summer is in them) and so overwhelm all their dark weaknesses, and sinful distracted sadnesses and distrusts.</p>
+               <p n="6">6. I have seen more of the Lord Jesus by reading and considering nine words, then in many Books, Sermons and personal opini<g ref="char:EOLhyphen"/>ons. The words of him were written to this effect: the eternal meekness is Christ, because he mitigateth the wrath. He is also the Son, because he is born out of the fathers nature, and none else as he. And Christ is his word, because he revealeth the hidden God-head. He is called a Person, because he is a self-sub<g ref="char:EOLhyphen"/>sisting essence, which doth not belong to the birth of nature, but is the light and under<g ref="char:EOLhyphen"/>standing of nature. He is called the heart of the father, because he is the vertue and power in the center of nature, as the heart in the body which giveth strength and under<g ref="char:EOLhyphen"/>standing to its members. He is called the light of God, because the light is kindled in him, and taketh its original in him. He is sti<g ref="char:EOLhyphen"/>led the brightness of the fathers glory, be<g ref="char:EOLhyphen"/>cause in the eternal still liberty he maketh a
+<pb n="38" facs="tcp:206625:21"/>glance, which taketh its original out of the sharpness of the eternal nature. He is called the love of the Father, because the Fathers first will to the genetrix of nature, desireth only this his most beloved heart, and this is the best beloved above nature, and yet is the Fathers own essence. His name also is cal<g ref="char:EOLhyphen"/>led Wonderful, because he is the creator of all things, by whom all things out of the Center of the essences of the Father are brought to light and being, so that the nature of the Father standeth in great wonders.</p>
+               <p n="7">7. Is not this plain language to a plain heart that knoweth any thing of what the Scriptures testifie of Christ? The increase of his knowledge is wonderful (as a Christ within and without all one, Christ God-man blessed for ever.) Here is milk for babes, and settlement for the weak-minded concer<g ref="char:EOLhyphen"/>ning Christ Iesus. And here is meat strong enough for the strong (as perfect as he is) complain not thou in these dayes that the house is dark and some speak in the clouds, but mourn that the eyes of thy mind remain still darkned. For now is Christ held forth powerfully, clearly and truly as equal with God, quieting the severity and turning all to love which love also was the cause of his incarration; note it and lose it not. The bo<g ref="char:EOLhyphen"/>tom
+<pb n="39" facs="tcp:206625:21"/>and deep things of God are sounded here and brought forth by the spirit of the Lord, as <hi>Paul</hi> saith. But wo is to that man or mind that with a natural vain dancing fancy playeth with these most venerable things, and with his imagination makes dalliance in a dream with the greatest wonders of eter<g ref="char:EOLhyphen"/>nity upon the bed of time and vanity. Many people and Preachers prattle of Christ, and they say, This is sound doctrin, here is Christ; the truth is in our Chamber or Synagogue, or wilderness at the worst. But they seek not the Lord Iesus in the worthy root, mistaking <hi>Paul</hi> that spake against Philosophy in his let<g ref="char:EOLhyphen"/>ter to the <hi>Colossians,</hi> though they observe not that the same <hi>Paul</hi> to the <hi>Galatians</hi> taught, that there is no true God but he that is God by nature (whereof more yet.) Now these are the men that dig not for understanding as for pieces of gold, but speak evil of the heavenly mettal, which they know not they tread it under their feet: they count it earth (all earth and natural) that is under them, yea the stars of heaven (they think) have no more influence on their complexions then the earth under their feet, nor so much as the flowers in their gardens, or pot-hearbs in their Kitchins. And as others intrude into the Angelical world, &amp; boast of what they have not experi<g ref="char:EOLhyphen"/>mented;
+<pb n="40" facs="tcp:206625:22"/>so these confident and foolish hearts deny the Magois from the East that followed a starry light to the babe Iesus, not consi<g ref="char:EOLhyphen"/>dering that all stars, Angels, men and other Creatures are leaders to the Lord the Son, the first-born and only begotten of God.</p>
+               <p n="8">8. They poor souls intend to set up Christ in their own private way, and to build the great mountain, that shall fill the earth upon their own narrow pinacle of opinion, which building of theirs must fall, because it is not broad enough to undergo the superstructure; and the generation of undergoers have been too narrowly partial. Therefore undergo no more then thou canst bear, lest thou be bu<g ref="char:EOLhyphen"/>ried in the rubbish and ruins of thy own edi<g ref="char:EOLhyphen"/>fice; <hi>be not wise above what is written:</hi> writ<g ref="char:EOLhyphen"/>ten! where sayest thou? in the books of men, or in the Apocrypha, or in the translated let<g ref="char:EOLhyphen"/>ter canonical (so called) in the book of God, which cannot be corrupted by translations, nor belyed by interpretations, expoundings and comments? That book is not subject to these things (that little book) mentioned in the 10. of the <hi>Revelation</hi> at the opening of the seventh and last seal; and in that book if thou cast read it in that paradise light with thee, in thee, thou shalt then behold what the Christ is in the spirit of Revelation, without
+<pb n="41" facs="tcp:206625:22"/>which no man can see the Lord: but what saith the Scripture? Be not thou a dull horse, or a swift witted mule, or any other evil beast, fierce, proud, irrational, unspiritual, unpeace<g ref="char:EOLhyphen"/>able, but search humbly and constantly for the perfect and acceptable will of God in Christs person, and then shalt thou find the everlast<g ref="char:EOLhyphen"/>ing cupboard of food to thy soul, and the casement of the Creation, and the pearl of great price, and the changer of all natures, the center of true Christians, the general randez<g ref="char:EOLhyphen"/>vouz of Saints, and the salvation of thy soul.</p>
+               <p n="9">9. They all err and wander that worship any God but he who is God by nature (as I said before) There is no true Christ but he that is truly Christ in the eternal begetting. No true Church but what was eternally known in Gods pleasure and essence; no true Saint, or Scripture, or providence manifest to men, but what shone evermore fully in the glass of the inhabiter of eternity. Ye read of our fall in <hi>Adam,</hi> it was the reall Christ in God that then relieved him: Then of the Patriarchs this very same appeared to <hi>Abra<g ref="char:EOLhyphen"/>ham, Lot, Gideon,</hi> and others, especially to <hi>Isaiah,</hi> who cryeth out of his undoing at his appearance. And since this old dispensation (as one and the same Christ) he the fountain of immortality, was desirous to unlock the New Testament. He stepped over that great
+<pb n="42" facs="tcp:206625:23"/>gulf to take mans dunghil into Gods Sun, yet so (as without mixture) the dunghil of man might be swallowed up into the divine na<g ref="char:EOLhyphen"/>ture, by the influence of the Sun. Now that man is cursed that denieth the Iesus that dy<g ref="char:EOLhyphen"/>ed at Ierusalem to be the only begotten Son of God; for whosoever denieth the Son, hath not the Father, but lyeth in deep darkness or malice, and so in hell, and there is left till he be awakened, and his flesh subdued. But bles<g ref="char:EOLhyphen"/>sed is the man that is built upon Iesus of <hi>Na<g ref="char:EOLhyphen"/>zareth</hi> as on the onely foundation, and by no means or pretence despiseth that personal death, at which the whole fabrick of heaven and earth did move (the Sun Ecclipsed, the graves opened) yet withal he is happy in this, that he knows that Christ was crucified by him, to live his own life in him, for he was dead, and is now alive in his spirit, and shall dye no more, nor he fall away; without this none are saved. But thou who readest, be warned not to divide the Christ without, and the Christ within; it is the gulf of condemnation, a pit for self-conceited hearts; He that writeth hath seen the deceit.</p>
+               <p n="10">10. And for things called Ordinances and institutions, be not thou a mocker and scor<g ref="char:EOLhyphen"/>ner, as if all outwards were under thy feet (if it be so indeed, why dost thou eat, drink,
+<pb n="43" facs="tcp:206625:23"/>sleep, marry, buy, sell, or work in the clay?) let not Satan puff up in thee a vain mind; speak not reproachfully of the outward Bible, nor give it a railing accusation. It proves a tree bearing fruit, and occasioning good thoughts in many (though ink, paper and let<g ref="char:EOLhyphen"/>ter be dead things.) And the souldiers of Israel were forbidden to cut down any such tree, though the tree it self was not proper food for any. The Papists say this Bible is the cause of all evils in Christendom; but the Lord Iesus saith, that which cometh out of mans heart doth all the mischiefs. Art thou so brutish as not to see how dark the people must have been in the history and mysterie of things, if there had never been an outward Bible seen or read among us at all? Most now that pretend highest, speak as in that book-language, and that book speaks beyond them all, and is a greater and more publique gene<g ref="char:EOLhyphen"/>ral witness externally for God, then all their own outward books put together: but for all this, idolize no book; it is not the God that can save thee, nor the word of God that made this world; only instead of vilifying of outward things (as the manner of some is) seek after the Christ who is hid through all these; for Christ filleth the Scripture, Christ appeareth through all Creatures, Christ li<g ref="char:EOLhyphen"/>veth
+<pb n="44" facs="tcp:206625:24"/>in all Saints of all forms, Christ suppor<g ref="char:EOLhyphen"/>teth all beings, Christ is all spiritually, and Christ is nothing carnally, Christ is God in the father, and Christ would become man in thee. His work and office is reconciling and reaching to bring things distant into one, and to recapitulate all things in heaven and in earth. Therefore must the Lord from hea<g ref="char:EOLhyphen"/>ven become man from earth.</p>
+               <p n="11">11. Now the poor soul in these difficult days doth ask, what shall I do to have Christ, and be saved by him? First, fasten this in thy inmost mind; Christ to me, and I to him (say so ever) and let worldlings take the world, &amp; lusters their lusts; then look for Christ next where he is to be found for ever, and that is within thy heart: run not after every noise of power, light or religion in the streets, yet keep so to the light within, as not to be tur<g ref="char:EOLhyphen"/>bulent, uncivil, censorious, partial or proud<g ref="char:EOLhyphen"/>hearted. Think of Christ as all love to thy unworthy soul: he is the good-will of the Father that dwelleth in thy bush, yielding himself into thee as the Sun doth to the earth; harbour no hard thoughts of him upon any terms (whatever thy sins or miseries may be.) Can thy corruptions lessen the Sun in the firmament of God? And if thou thus look upon him, thou shalt be melted daily into his
+<pb n="45" facs="tcp:206625:24"/>eternal love, and so become one with him (as he hath prayed for thee.) But abuse not his love by wantonness or idleness, carelessness, self-boastings and hoggering between the heavenly seed and thy own lustings: The way is plain if thou hast under<g ref="char:EOLhyphen"/>standing, if not ask wisdom of God. Ask, and ask it earnestly, without doubt he will give it thee; but when it hath entred into thee, murther it not in thy self, but le<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it have scope to teach thee more, and then it will shew clearly and certainly to thee how thou art one with Christ and God, and God in thee one with Christ, and thou one with the harm<g ref="char:EOLhyphen"/>less people in him, and reconciled to all things but to sin, Sa<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an, death and hell, which thou shalt tread upon, and trample under feet; Reject nothing rash<g ref="char:EOLhyphen"/>ly, receive nothing doubtingly, watch evermore, and when thou art assaulted, run earnestly and boldly to him that was in all points tempted as thou art, flye to him that conquered and sinned not. Behold he is near thee, in thee, bone of thy bone, flesh of thy flesh, that thou mayest be one spirit with him; do but turn thy will from thy inward self, and forth<g ref="char:EOLhyphen"/>with thou meetest Christ embracing thee with his love within.</p>
+               <p n="12">12. Lastly, Although Christ were spoken of most clearly, yet there is nothing in man (unless God the Father lives in him) that can know Christ; the strength of imagination, and depth of reason, and heat of blind zeal, are all vanities in this matter. The wisest naturalist cannot as much as perceive this holy thing of God what he is; He hath not seen the Sun, He is more woful then the untimely birth that dwelleth in darkness. Give therefore no sleep to
+<pb n="46" facs="tcp:206625:25"/>thine eyes, nor slumber to thine ey-lids, untilthe fa<g ref="char:EOLhyphen"/>ther and the Son become formed and living in thy spirit; for none knoweth the true light but the child of the day; and until it be day within thee, all is dark without thee. Remember and understand how the heart of God, the father and the head of man is but one: the light (this light) of men and Mediator for man is one, and not two; know Christ in God, and God in Christ, and Christ in thee, and thy self in Christ, and thou hast eternal life in thee; and when it is asked where is Christ? and what is Christ? and where is he gone? and how shall I follow him? (and some point at the Synagogue or private chamber, or wilderness, or the within limited) then see that Christs being be thy chief good or choice above all; his seat within in thy bottom and spirit, and thy following of him (where he is gone) be in earnestness, humbleness, self-abhorring, diligence, charity, fear and continuance in all good works, and therein farewel.</p>
+               <pb facs="tcp:206625:25"/>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
